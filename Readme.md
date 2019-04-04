@@ -1,8 +1,12 @@
 #Install project
 npm init -y
+
 #Install dependences
+
 npm install --save chalk
+
 npm install --save lowdb
+
 #create file todo.js
 
 #create cmd/new
